@@ -1,4 +1,5 @@
-id: oomlout_tdpbmct_nineteen_inch_rack_shelf_bracket
-name: Oomlout Tdpbmct Nineteen Inch Rack Shelf Bracket
-description: Oomlout Tdpbmct Nineteen Inch Rack Shelf Bracket
-readme_manual: ''
+id: oomlout_oomp_electronic_project_svg_component_placement
+name: "SVG Component Placement in Kicad"
+description: "Placing components along a path in Kicad."
+readme_manual: |
+  ##notes
