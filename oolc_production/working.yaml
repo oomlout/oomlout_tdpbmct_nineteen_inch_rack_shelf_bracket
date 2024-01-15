@@ -1,0 +1,6 @@
+project_id: oomlout_tdpbmct_nineteen_inch_rack_shelf_bracket
+project_name: Oomlout Tdpbmct Nineteen Inch Rack Shelf Bracket
+project_repo: https://github.com/oomlout/oomlout_tdpbmct_nineteen_inch_rack_shelf_bracket
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
